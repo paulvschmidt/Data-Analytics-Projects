@@ -8,3 +8,5 @@ Suggestions: In order to potentially convert more casual riders to an annual mem
 
 
 [Data Sources](https://public.tableau.com/views/Divvy_Trip_Data/Sheet6?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+[Raw Data:](https://divvy-tripdata.s3.amazonaws.com/index.html)
