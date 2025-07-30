@@ -7,6 +7,6 @@ Conclusions: I found that, on average, casual riders rode approximately twice as
 Suggestions: In order to potentially convert more casual riders to an annual membership, you could offer incentives to people who want to commute to and from work. Another way you could try to increase the number of annual members is by targeting the larger stations with a proportionally larger number of casual riders when compared to the entire demographic.
 
 
-[Data Sources](https://public.tableau.com/views/Divvy_Trip_Data/Sheet6?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Data Visualizations](https://public.tableau.com/views/Divvy_Trip_Data/Sheet6?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 [Raw Data:](https://divvy-tripdata.s3.amazonaws.com/index.html)
